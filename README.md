@@ -1,2 +1,2 @@
-# scamshield-ai
-AI-powered system for detecting fraudulent websites and suspicious links.
+# familyshield-ai
+AI-powered family cybersecurity platform protecting adults and children from online threats, scams, and fraudulent websites.
